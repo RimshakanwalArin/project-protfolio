@@ -15,20 +15,20 @@ const About = () => {
           <div className="lg:w-1/2 space-y-6">
             <h2 className="text-2xl font-semibold">BIOGRAPHY</h2>
             <p className="text-base sm:text-lg leading-relaxed">
-              Hi, I am Coder a web developer and UI/UX designer with a
-              passion for creating beautiful, functional, and user-centered
+              Hi I am Coder a web developer and UI/UX designer with a
+              passion for creating beautiful functional and user-centered
               digital experiences. With 4 years of experience in the field. I am
-              always looking for new and innovative ways to bring my clients'
+              always looking for new and innovative ways to bring my clients
               visions to life.
               <br />
               <br />
               I believe that design is about more than just making things look
-              pretty – it's about solving problems and creating intuitive
+              pretty – its about solving problems and creating intuitive
               enjoyable experiences for users.
               <br />
               <br />
-              Whether I am working on a website, mobile app, or other digital
-              product, I bring my commitment to design excellence and
+              Whether I am working on a website mobile app or other digital
+              product I bring my commitment to design excellence and
               user-centered thinking to every project. I look forward to
               bringing my skills and passion to your next project.
             </p>
